@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bignumber.js": "^9.1.0",
+    "qs": "^6.11.0"
+  }
+}
